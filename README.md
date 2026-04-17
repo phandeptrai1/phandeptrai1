@@ -1,129 +1,108 @@
-<!-- ANIME HEADER -->
+<!-- HEADER WAVE -->
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,30:333399,60:00c6ff,100:00f2fe&height=270&section=header&text=PHANDEPTRAI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,70:2c5364,100:00c6ff&height=230&section=header&text=PHANDEPTRAI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- anime gif banner -->
+<!-- TYPING -->
 <p align="center">
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="850"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;AI+Engineer;Cloud+Infrastructure;Automation+Builder;Always+learning+new+things"/>
 </p>
 
-<!-- typing -->
+---
+
+# 🌐 CONNECT
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=FF00CC&center=true&vCenter=true&width=800&lines=Anime+Style+Developer;AI+%2B+Automation;Cyberpunk+Builder;Creating+Cool+Things+✨"/>
+<a href="https://discord.gg/sietangaingu">
+<img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=00FFFF"/>
+</a>
+
+<a href="https://facebook.com/tuchekall">
+<img src="https://img.shields.io/badge/Facebook-0a0a0a?style=for-the-badge&logo=facebook&logoColor=00FFFF"/>
+</a>
+
+<a href="https://tiktok.com/@kochill908">
+<img src="https://img.shields.io/badge/TikTok-0a0a0a?style=for-the-badge&logo=tiktok&logoColor=00FFFF"/>
+</a>
+
+<a href="https://x.com/pTraiPhan1">
+<img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=00FFFF"/>
+</a>
 
 </p>
 
 ---
 
-# 🌸 PROFILE
-
+# ⚡ TECH STACK
 <p align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=phandeptrai1&data=followers,repositories,stars,commits&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,php,java,kotlin,html,css,mysql,mongodb,redis,firebase,aws,gcp,azure,docker,unity,git,github,figma&theme=dark"/>
 
 </p>
 
 ---
 
-# 🎨 TECH STACK
+# 🧠 SPECIALTIES
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,php,java,kotlin,html,css,mysql,mongodb,redis,firebase,docker,aws,gcp,azure,git,github,figma&theme=dark"/>
+<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=autohotkey&logoColor=00ffff"/>
+<img src="https://img.shields.io/badge/API%20Engineering-111111?style=for-the-badge&logo=fastapi&logoColor=00ffff"/>
+<img src="https://img.shields.io/badge/AI%20Integration-111111?style=for-the-badge&logo=openai&logoColor=00ffff"/>
+<img src="https://img.shields.io/badge/Cloud%20Systems-111111?style=for-the-badge&logo=icloud&logoColor=00ffff"/>
 
 </p>
 
 ---
 
-# 💮 SKILLS
-
+# 📊 GITHUB STATS
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI%20Systems-ff00cc?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Design-9933ff?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-00c6ff?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-00f2fe?style=for-the-badge&logo=icloud&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bots-ff66cc?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=phandeptrai1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=phandeptrai1&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </p>
 
 ---
 
-# 📊 STATS
-
+# 📈 MOST USED LANGUAGES
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=phandeptrai1&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=phandeptrai1&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 ACTIVITY
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phandeptrai1&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phandeptrai1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
 
 ---
 
 # 🏆 TROPHIES
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=phandeptrai1&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=phandeptrai1&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🌐 SOCIAL
-
+# 💬 DEV QUOTE
 <p align="center">
 
-<a href="https://discord.gg/sietangaingu">
-<img src="https://img.shields.io/badge/Discord-ff00cc?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/tuchekall">
-<img src="https://img.shields.io/badge/Facebook-9933ff?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@kochill908">
-<img src="https://img.shields.io/badge/TikTok-00c6ff?style=for-the-badge&logo=tiktok&logoColor=black"/>
-</a>
-
-<a href="mailto:sieta@akvps.io">
-<img src="https://img.shields.io/badge/Email-ff66cc?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 👁 VISITORS
-
+# 👀 PROFILE VIEWS
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=phandeptrai1&style=for-the-badge&color=ff00cc"/>
+<img src="https://komarev.com/ghpvc/?username=phandeptrai1&style=for-the-badge&color=00ffff"/>
 
 </p>
 
 ---
 
-<!-- footer -->
+<!-- FOOTER -->
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,40:9933ff,70:00c6ff,100:00f2fe&height=150&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=140&section=footer"/>
 </p>
