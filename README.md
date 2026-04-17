@@ -1,16 +1,27 @@
-<!-- HEADER -->
+<!-- ANIME HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,40:243B55,70:00c6ff,100:00f2fe&height=260&section=header&text=PHANDEPTRAI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,30:333399,60:00c6ff,100:00f2fe&height=270&section=header&text=PHANDEPTRAI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</p>
+
+<!-- anime gif banner -->
+<p align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="850"/>
+
 </p>
 
 <!-- typing -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI+Automation+Engineer;Cloud+Architect;Building+cool+stuff+⚡"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=FF00CC&center=true&vCenter=true&width=800&lines=Anime+Style+Developer;AI+%2B+Automation;Cyberpunk+Builder;Creating+Cool+Things+✨"/>
+
 </p>
 
 ---
 
-# 🧊 PROFILE
+# 🌸 PROFILE
 
 <p align="center">
 
@@ -20,25 +31,25 @@
 
 ---
 
-# ⚡ STACK
+# 🎨 TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,php,java,kotlin,html,css,mysql,mongodb,redis,firebase,docker,aws,gcp,azure,git,github,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,php,java,kotlin,html,css,mysql,mongodb,redis,firebase,docker,aws,gcp,azure,git,github,figma&theme=dark"/>
 
 </p>
 
 ---
 
-# 🧠 WHAT I DO
+# 💮 SKILLS
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI%20Systems-0d1117?style=for-the-badge&logo=openai&logoColor=00ffff"/>
-<img src="https://img.shields.io/badge/API%20Design-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ffff"/>
-<img src="https://img.shields.io/badge/Automation-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ffff"/>
-<img src="https://img.shields.io/badge/Cloud%20Infra-0d1117?style=for-the-badge&logo=icloud&logoColor=00ffff"/>
-<img src="https://img.shields.io/badge/Bots%20%26%20Tools-0d1117?style=for-the-badge&logo=robotframework&logoColor=00ffff"/>
+<img src="https://img.shields.io/badge/AI%20Systems-ff00cc?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Design-9933ff?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-00c6ff?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-00f2fe?style=for-the-badge&logo=icloud&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bots-ff66cc?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
 </p>
 
@@ -48,52 +59,52 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=phandeptrai1&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=phandeptrai1&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=phandeptrai1&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=phandeptrai1&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 ACTIVITY GRAPH (động)
+# 📈 ACTIVITY
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phandeptrai1&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phandeptrai1&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 TROPHIES
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=phandeptrai1&theme=radical&no-frame=true&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=phandeptrai1&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
 ---
 
-# 🌐 CONTACT
+# 🌐 SOCIAL
 
 <p align="center">
 
 <a href="https://discord.gg/sietangaingu">
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Discord-ff00cc?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/tuchekall">
-<img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Facebook-9933ff?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://tiktok.com/@kochill908">
-<img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/TikTok-00c6ff?style=for-the-badge&logo=tiktok&logoColor=black"/>
 </a>
 
 <a href="mailto:sieta@akvps.io">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Email-ff66cc?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -104,13 +115,15 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=phandeptrai1&style=for-the-badge&color=00ffff"/>
+<img src="https://komarev.com/ghpvc/?username=phandeptrai1&style=for-the-badge&color=ff00cc"/>
 
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- footer -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:00c6ff,100:243B55&height=140&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,40:9933ff,70:00c6ff,100:00f2fe&height=150&section=footer"/>
+
 </p>
